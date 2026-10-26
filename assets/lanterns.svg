@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-labelledby="t"><title id="t">A string of red paper lanterns against a dark evening sky</title>
+<rect width="640" height="240" fill="#2a1d19"/>
+<path d="M0 30 Q320 80 640 30" stroke="#e0a100" stroke-width="3" fill="none"/>
+<g id="l"><path d="M80 52 V70" stroke="#e0a100" stroke-width="3"/><rect x="66" y="68" width="28" height="6" fill="#e0a100"/><ellipse cx="80" cy="102" rx="32" ry="30" fill="#b81c1c"/><path d="M62 78 Q56 102 62 126 M80 72 V132 M98 78 Q104 102 98 126" stroke="#8a1010" stroke-width="3" fill="none"/><rect x="66" y="130" width="28" height="6" fill="#e0a100"/><path d="M80 136 V170 M74 170 h12 M80 170 v14" stroke="#e0a100" stroke-width="3"/></g>
+<use href="#l" x="150" y="12"/><use href="#l" x="300" y="22"/><use href="#l" x="450" y="12"/><use href="#l" x="540" y="-6"/>
+<g fill="#fbe9c4"><circle cx="40" cy="190" r="2"/><circle cx="240" cy="210" r="2"/><circle cx="420" cy="200" r="2"/><circle cx="600" cy="205" r="2"/></g>
+</svg>

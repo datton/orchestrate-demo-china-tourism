@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-labelledby="t"><title id="t">Misty green limestone peaks over a river with a small boat</title>
+<rect width="640" height="300" fill="#fbe9c4"/><circle cx="480" cy="80" r="36" fill="#e0a100" opacity=".8"/>
+<path d="M0 200 C30 140 50 90 80 90 C110 90 120 150 150 200Z" fill="#9fd1bf"/>
+<path d="M120 210 C160 120 190 40 230 40 C270 40 290 130 320 210Z" fill="#5fb59a"/>
+<path d="M290 215 C320 150 350 100 385 100 C420 100 440 160 470 215Z" fill="#9fd1bf"/>
+<path d="M440 215 C480 140 520 70 560 70 C600 70 620 150 640 190 V215Z" fill="#0b6b55"/>
+<rect y="200" width="640" height="100" fill="#0b6b55"/><rect y="235" width="640" height="65" fill="#07503f"/>
+<path d="M0 205 H640" stroke="#fdf8ee" stroke-width="10" opacity=".35"/>
+<path d="M60 255 h50 M300 268 h70 M500 250 h60" stroke="#fdf8ee" stroke-width="3" stroke-linecap="round" opacity=".5"/>
+<path d="M200 235 Q230 250 270 235Z" fill="#1d1612"/><path d="M235 235 V205 L255 232Z" fill="#fdf8ee"/>
+</svg>

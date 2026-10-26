@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t"><title id="t">Red lantern icon</title>
+<path d="M32 2 V10" stroke="#e0a100" stroke-width="3"/><rect x="22" y="9" width="20" height="5" fill="#e0a100"/>
+<ellipse cx="32" cy="32" rx="22" ry="18" fill="#b81c1c"/><path d="M18 17 Q12 32 18 47 M32 14 V50 M46 17 Q52 32 46 47" stroke="#8a1010" stroke-width="2.5" fill="none"/>
+<rect x="22" y="49" width="20" height="5" fill="#e0a100"/><path d="M32 54 V62" stroke="#e0a100" stroke-width="3"/>
+</svg>

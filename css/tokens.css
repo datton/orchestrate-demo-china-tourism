@@ -1,3 +1,53 @@
 :root {
-  /* Designer: colours, type and spacing tokens */
+  /* Palette: vermilion, jade, imperial gold, ink on warm rice paper. Vivid but restrained.
+     Contrast: --ink on --bg 16:1; --on-accent on --accent 6.2:1; --on-jade on --jade 8:1; --muted on --bg 7.6:1 */
+  --bg: #fdf8ee;
+  --surface: #f3e8d0;
+  --ink: #1d1612;
+  --muted: #55473c;
+  --accent: #b81c1c;
+  --accent-dark: #8a1010;
+  --on-accent: #ffffff;
+  --jade: #0b6b55;
+  --on-jade: #ffffff;
+  --gold: #e0a100;
+  --border: #d9c9a8;
+  --focus: #0050d8;
+
+  /* Type: system fonts only; no imitation "oriental" display faces. Clean serif headings, sans body. */
+  --font-display: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  --font-body: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", Arial, sans-serif;
+  --text-sm: 0.875rem;
+  --text-base: 1.0625rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.75rem;
+  --text-2xl: clamp(2rem, 5vw, 3rem);
+  --text-3xl: clamp(2.5rem, 7vw, 4.25rem);
+  --leading: 1.65;
+  --leading-tight: 1.12;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 1rem;
+  --space-4: 1.5rem;
+  --space-5: 2.5rem;
+  --space-6: 4rem;
+  --radius: 8px;
+  --radius-lg: 16px;
+  --max-width: 68rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1210;
+    --surface: #2a1d19;
+    --ink: #fbf0dc;
+    --muted: #dccbb0;
+    --accent: #ff6a5c;
+    --on-accent: #1a1210;
+    --jade: #5cd0b0;
+    --on-jade: #1a1210;
+    --border: #4d3a30;
+    --focus: #7fb0ff;
+  }
 }

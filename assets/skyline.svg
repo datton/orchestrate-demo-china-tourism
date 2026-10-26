@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img" aria-labelledby="t"><title id="t">Modern city skyline with a traditional tiered pagoda in front</title>
+<rect width="640" height="260" fill="#f3e8d0"/>
+<g fill="#0b6b55"><rect x="30" y="100" width="46" height="120"/><rect x="90" y="60" width="40" height="160"/><rect x="144" y="120" width="56" height="100"/><rect x="420" y="80" width="44" height="140"/><rect x="478" y="40" width="34" height="180"/><rect x="526" y="110" width="60" height="110"/></g>
+<path d="M495 40 V18" stroke="#0b6b55" stroke-width="4"/>
+<g fill="#fdf8ee" opacity=".7"><rect x="40" y="115" width="8" height="8"/><rect x="58" y="115" width="8" height="8"/><rect x="100" y="80" width="8" height="8"/><rect x="116" y="80" width="8" height="8"/><rect x="432" y="100" width="8" height="8"/><rect x="486" y="70" width="8" height="8"/></g>
+<g fill="#b81c1c"><rect x="290" y="190" width="60" height="30"/><path d="M276 190 L320 168 L364 190Z"/><rect x="298" y="150" width="44" height="18"/><path d="M286 150 L320 130 L354 150Z"/><rect x="306" y="116" width="28" height="14"/><path d="M296 116 L320 98 L344 116Z"/><rect x="318" y="80" width="4" height="18"/></g>
+<rect y="220" width="640" height="40" fill="#1d1612"/>
+</svg>
